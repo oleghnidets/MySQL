@@ -21,7 +21,7 @@ MySQL package for iOS and macOS (including macOS Catalyst). Package comes with [
 
 MySQL is heavily dependent on OpenSSL libraries. So many thanks to these guys for the OpenSSL library:
 * @krzyzanowskim - [iOS + macOS + Catalyst](https://github.com/krzyzanowskim/OpenSSL)
-* @x2on - [tvOS + watchOS]((https://github.com/x2on/OpenSSL-for-iPhone))
+* @x2on - [tvOS + watchOS](https://github.com/x2on/OpenSSL-for-iPhone)
 
 ## Author
 
