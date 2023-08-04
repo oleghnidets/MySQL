@@ -20,9 +20,9 @@
 # include <openssl/opensslconf_catalyst_arm64.h>
 #elif TARGET_OS_TV && TARGET_OS_SIMULATOR && TARGET_CPU_X86_64
 # include <openssl/opensslconf_tvos_x86_64.h>
-#elif TARGET_OS_TV && TARGET_OS_EMBEDDED && TARGET_CPU_ARM64
+#elif TARGET_OS_TV && (TARGET_OS_EMBEDDED || TARGET_OS_SIMULATOR) && TARGET_CPU_ARM64
 # include <openssl/opensslconf_tvos_arm64.h>
-#elif TARGET_OS_TV && TARGET_OS_EMBEDDED && TARGET_CPU_ARM64
+#elif TARGET_OS_TV && (TARGET_OS_EMBEDDED || TARGET_OS_SIMULATOR) && TARGET_CPU_ARM64
 # include <openssl/opensslconf_tvos_arm64.h>
 #elif TARGET_OS_WATCH && TARGET_OS_SIMULATOR && TARGET_CPU_X86_64
 # include <openssl/opensslconf_watchos_x86_64.h>
