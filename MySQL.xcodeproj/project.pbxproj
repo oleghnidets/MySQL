@@ -1762,7 +1762,6 @@
 		9202D839295A3F9000908805 /* libresolv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libresolv.tbd; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/lib/libresolv.tbd; sourceTree = DEVELOPER_DIR; };
 		9202D83F295A3FAA00908805 /* libresolv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libresolv.tbd; path = Platforms/WatchOS.platform/Developer/SDKs/WatchOS8.3.sdk/usr/lib/libresolv.tbd; sourceTree = DEVELOPER_DIR; };
 		9202D843295A3FB800908805 /* libmysqlclient.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libmysqlclient.a; path = watchsimulator/lib/libmysqlclient.a; sourceTree = "<group>"; };
-		9202D845295A40C100908805 /* OpenSSL.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = OpenSSL.xcframework; path = "OpenSSL/watchos-tvos/OpenSSL.xcframework"; sourceTree = "<group>"; };
 		9202D84A295A40DC00908805 /* OpenSSL.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = OpenSSL.xcframework; path = "OpenSSL/ios-catalyst-macos/OpenSSL.xcframework"; sourceTree = "<group>"; };
 		920BBEA72760CC8700C25D55 /* libmysqlclient.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libmysqlclient.a; path = iphoneos/lib/libmysqlclient.a; sourceTree = "<group>"; };
 		920BC8AA2760D1A000C25D55 /* libmysqlclient.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libmysqlclient.a; path = macos/lib/libmysqlclient.a; sourceTree = "<group>"; };
@@ -2295,7 +2294,6 @@
 			children = (
 				9220B691295A49F00051636A /* libc++.tbd */,
 				9220B68F295A49EC0051636A /* libresolv.tbd */,
-				9202D845295A40C100908805 /* OpenSSL.xcframework */,
 				9202D84A295A40DC00908805 /* OpenSSL.xcframework */,
 				9202D843295A3FB800908805 /* libmysqlclient.a */,
 				9202D839295A3F9000908805 /* libresolv.tbd */,
