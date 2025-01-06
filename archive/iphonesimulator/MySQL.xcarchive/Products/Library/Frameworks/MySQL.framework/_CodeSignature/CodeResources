@@ -4,18 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/OpenSSL.framework/Info.plist</key>
-		<data>
-		+IqKAHF4jS/WWJdSmgaY0il0RwI=
-		</data>
-		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
-		<data>
-		rO9UnK+vI+RadQLfHgqNa836jl8=
-		</data>
-		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
-		<data>
-		BpJ2o1LT8sjTZ7GdErcFjJ84Gh4=
-		</data>
 		<key>Headers/add_with_saturate.h</key>
 		<data>
 		vbcP2QiwNOGZe+j44tZVWJ04nsM=
@@ -1530,36 +1518,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		EYo+mr1BqvaTuEtnWuGiS6VyWCc=
+		jLBIAJ6WA+ME7J47Xn7AXDwHpWQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		wRHAIGdai6JOKrePcfJQenIMQSo=
+		z4P8TUHN4gfWBjhdFCkev8a3zqY=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/OpenSSL.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fvJf6inkpu8iH7peU5GWbm8ZqppEPeSABnbGpHP+z8I=
-			</data>
-		</dict>
-		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xInaWALfqOilmg3lcAN/iWEVv0ZLSUqcF5a3aHJTvag=
-			</data>
-		</dict>
-		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IdLd+Jnf0Aahpzd5TTFzNgMvzleh0hWTfX+g3eEWw5c=
-			</data>
-		</dict>
 		<key>Headers/add_with_saturate.h</key>
 		<dict>
 			<key>hash2</key>
@@ -4210,7 +4177,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UusRqAm/91KaF4HmjxJVvt7GZC3jdCCMY0W701jBAic=
+			vWqObx9wP5Xu5F3/aM98GhKw2v35hZmvqnuZlRLI+es=
 			</data>
 		</dict>
 	</dict>

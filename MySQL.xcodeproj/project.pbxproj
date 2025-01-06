@@ -12,13 +12,9 @@
 		9202D83B295A3F9700908805 /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 9202D837295A3F8C00908805 /* libc++.tbd */; };
 		9202D83C295A3F9A00908805 /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 9202D839295A3F9000908805 /* libresolv.tbd */; };
 		9220B696295A4BB60051636A /* OpenSSL.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9202D84A295A40DC00908805 /* OpenSSL.xcframework */; };
-		9220B697295A4BB60051636A /* OpenSSL.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9202D84A295A40DC00908805 /* OpenSSL.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		9220B699295A4BB90051636A /* OpenSSL.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9202D84A295A40DC00908805 /* OpenSSL.xcframework */; };
-		9220B69A295A4BB90051636A /* OpenSSL.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9202D84A295A40DC00908805 /* OpenSSL.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		9220B69C295A4BBC0051636A /* OpenSSL.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9202D84A295A40DC00908805 /* OpenSSL.xcframework */; };
-		9220B69D295A4BBC0051636A /* OpenSSL.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9202D84A295A40DC00908805 /* OpenSSL.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		9220B69F295A4BBE0051636A /* OpenSSL.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9202D84A295A40DC00908805 /* OpenSSL.xcframework */; };
-		9220B6A0295A4BBE0051636A /* OpenSSL.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9202D84A295A40DC00908805 /* OpenSSL.xcframework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		92AB8368295E3FC80064A707 /* mysql_version.h in Headers */ = {isa = PBXBuildFile; fileRef = 92AB8367295E3FC80064A707 /* mysql_version.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		92AB8369295E3FC80064A707 /* mysql_version.h in Headers */ = {isa = PBXBuildFile; fileRef = 92AB8367295E3FC80064A707 /* mysql_version.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		92AB836A295E3FC80064A707 /* mysql_version.h in Headers */ = {isa = PBXBuildFile; fileRef = 92AB8367295E3FC80064A707 /* mysql_version.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -1712,7 +1708,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				9220B697295A4BB60051636A /* OpenSSL.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1723,7 +1718,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				9220B69A295A4BB90051636A /* OpenSSL.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1734,7 +1728,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				9220B69D295A4BBC0051636A /* OpenSSL.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1745,7 +1738,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				9220B6A0295A4BBE0051636A /* OpenSSL.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
